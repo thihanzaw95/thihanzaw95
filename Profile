@@ -1,0 +1,197 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Portfolio</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+    <link rel='stylesheet' href='https://fonts.googleapis.com/css?family=Roboto'>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <style>
+    html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
+    </style>
+  </head>
+<body class="w3-light-grey">
+
+<!-- Page Container -->
+<div class="w3-content w3-margin-top" style="max-width:1400px;">
+
+  <!-- The Grid -->
+  <div class="w3-row-padding">
+  
+    <!-- Left Column -->
+    <div class="w3-third">
+    
+      <div class="w3-white w3-text-grey w3-card-4">
+        <div class="w3-display-container">
+          <img src="./IMG_0693.jpg" style="width:100%" alt="Avatar">
+          <div class="w3-display-bottomleft w3-container w3-text-Green">
+
+            
+          </div>
+        </div>
+        <div class="w3-container">
+          <h4 <p>Thi Han Zaw </p> </h4>
+                  <p><i class="fa fa-briefcase fa-fw w3-margin-right w3-large w3-text-teal"></i>IT Engineer</p>
+          <p><i class="fa fa-home fa-fw w3-margin-right w3-large w3-text-teal"></i>Yangon,Myanmar</p>
+          <p><i class="fa fa-envelope fa-fw w3-margin-right w3-large w3-text-teal"></i>thihanzaw249@gmail.com</p>
+          <p><i class="fa fa-phone fa-fw w3-margin-right w3-large w3-text-teal"></i>+959758489636</p>
+          <p><i class="fa fa-phone fa-fw w3-margin-right w3-large w3-text-teal"></i>+666 4436 0669 (WhatApps:)</P>
+          <p><i class="fa fa-linkedin w3-hover-opacity"></i></p><a href="https://www.linkedin.com/in/thihanzaw/" target="_blank" data-toggle="tooltip" data-placement="bottom" title="" onclick="javascript:toolTipReset()" "="" data-original-title="Visit my LinkedIn page">Thi Han Zaw</a> 
+          
+          <hr>
+
+          <p class="w3-large"><b><i class="fa fa-asterisk fa-fw w3-margin-right w3-text-teal"></i>Skills</b></p>
+          <p>Network Operation Center (NOC/SOC)</p>
+          <div class="w3-light-grey w3-round-xlarge w3-small">
+            <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:90%">90%</div>
+          </div>
+          <p>Customer Service</p>
+          <div class="w3-light-grey w3-round-xlarge w3-small">
+            <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:80%">
+              <div class="w3-center w3-text-white">80%</div>
+            </div>
+          </div>
+          <p>IT Infrastructure Services</p>
+          <div class="w3-light-grey w3-round-xlarge w3-small">
+            <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:90%">90%</div>
+          </div>
+          <p>Data Center Support</p>
+          <div class="w3-light-grey w3-round-xlarge w3-small">
+            <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:90%">90%</div>
+          </div>
+          <br>
+
+          <p class="w3-large w3-text-theme"><b><i class="fa fa-globe fa-fw w3-margin-right w3-text-teal"></i>Languages</b></p>
+          <p>English</p>
+          <div class="w3-light-grey w3-round-xlarge">
+            <div class="w3-round-xlarge w3-teal" style="height:24px;width:100%"></div>
+          </div>
+         
+          <br>
+        </div>
+      </div><br>
+
+    <!-- End Left Column -->
+    </div>
+
+    <!-- Right Column -->
+    <div class="w3-twothird">
+    
+      <div class="w3-container w3-card w3-white w3-margin-bottom">
+        <h2 class="w3-text-grey w3-padding-16"><i class="fa fa-suitcase fa-fw w3-margin-right w3-xxlarge w3-text-teal"></i>Work Experience</h2>
+        <div class="w3-container">
+          <h5 class="w3-opacity"><b>[System Specialist] (EOD/ NOC/ Data Center/Infra/Customer Support Monitoring IT)</b></h5>
+          <h5 <p>YOMA BANK</p></h5>
+          <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>Jan 2021 - <span class="w3-tag w3-teal w3-round">Current</span></h6>
+          <p>Monitor network status, offer support for network-related and hardware issues, monitor system alerts and investigate and diagnose technical issues effectively, implement appropriate solutions to resolve incidents, restore system functionality, and maintain user productivity. </p>
+          <p>Collaborated closely with vendor engineers to ensure compatibility between existing infrastructure and new equipment deployed in the relocated data center.</p>
+          <p>Investigated and diagnosed technical issues effectively, implementing appropriate solutions to resolve incidents, restore system functionality, and maintain user productivity. </P>
+          <p>Handled confidential information carefully and adhered to all security protocols, protecting sensitive data and ensuring compliance with regulations.</P>
+
+          <hr>
+        </div>
+        <div class="w3-container">
+          <h5 class="w3-opacity"><b>[Associate System Specialist] (EOD/NOC/ DC/DR) </b></h5>
+          <h5 <p>YOMA BANK</p></h5>
+          <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>Jul 2019 - Dec 2020</h6>
+          <p>Contributed to streamlined system maintenance processes by following senior management guidelines and Runbooks for manual server shutdowns and script execution. </p>
+          <p>Developed and conducted comprehensive data recovery drill exercises, testing disaster recovery procedures and identifying potential areas for improvement. </p>
+          <hr>
+        </div>
+        <div class="w3-container">
+          <h5 class="w3-opacity"><b>[System Associate] (EOD/ NOC/ DR)</b></h5>
+          <h5 <p>YOMA BANK</p></h5>
+          <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>Jan 2017 - Jun 2019</h6>
+          <p>Ensured 24/7 system health and security at the Disaster Recovery (DR) site by providing comprehensive daily and monthly checkups on servers, storage, network devices, mount points, and safety equipment. This proactive approach minimized downtime and ensured readiness for disaster recovery operations.</p>
+          <p>Monitored IT infrastructure for security threats as part of a SOC team, utilizing Nagios for system monitoring, Alien Vault for threat intelligence, Virus Total for malware analysis, and incorporating cyber threat intelligence feeds to identify and respond to potential security incidents proactively.</p>
+        </div>
+      
+      <div class="w3-container">
+          <h5 class="w3-opacity"><b>[Junior Associate] (EOD/DR)</b></h5>
+          <h5 <p>YOMA BANK</p></h5>
+          <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>Aug 2016 - Dec 2016</h6>
+          <p>Provided comprehensive hardware support for desktops, laptops, workstations, and peripherals. This included basic troubleshooting, operating system installation, and device configuration to meet user needs and troubleshoot and diagnose hardware and software issues for desktops, laptops, workstations, and peripherals, ensuring user productivity.</p>
+          <p>Performed End-of-Day (EOD) processing on both Production and Testing (UAT) environments, ensuring data integrity and system readiness </p>
+          <p>Check server status and other safety equipment for Data Center.</P>
+          <p> Troubleshoot and diagnose hardware and software issues on desktops, laptops, workstations, and peripherals.Manually execute the batch job and its associated script.</P>
+          <p> Run End of Day (EOD) on both the Production and Testing environment (UAT).</p>
+          <p> Learn from senior mentorship to gain insightful and useful knowledge about monitoring tools.</P>
+        </div>
+         <div class="w3-container">
+          <h5 class="w3-opacity"><b>SKILLS</b></h5>
+          <p>IT Helpdesk</p>
+          <p>Customer Service</p>
+          <p>IT Infrastructure Services (Web Server / CMS / Middleware/ AWS / ERT training/ HAVC) </p>
+          <p>Troubleshooting</p>
+          <p>Networking/TCP-IP/Networking Device/OSI Layers/Subnetting/Routing/DHCP/DNS/VPN & Proxies/Broadband/WANs/Wirless networingk/Troubleshooting Networking</p>
+          <p>System Administration</p>
+          <p> Encryption Algorithms and Techniques </p>
+          <p>Network monitoring tools (Zabbix, Nagios, Grafana, Alien Vault, Datadog, Gray log, Virus Total, DCIM)</p>
+      </div>
+      <div class="w3-container">
+          <h5 class="w3-opacity"><b>Project</b></h5>
+          <p>Data Center Relocation / Rebuilt – Data Recovery Drill (BCP/ Disaster/ ERT tranning) </p>
+          
+      </div>
+</div>
+      <div class="w3-container w3-card w3-white">
+        <h2 class="w3-text-grey w3-padding-16"><i class="fa fa-certificate fa-fw w3-margin-right w3-xxlarge w3-text-teal"></i>Education</h2>
+        <div class="w3-container">
+          <h5 class="w3-opacity"><b>Lincoln University Malaysia</b></h5>
+          <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>Aug 2018</h6>
+          <p>Diploma In Network & Server Infrastructure</p>
+          <hr>
+        </div>
+        <div class="w3-container">
+          <h5 class="w3-opacity"><b>Lincoln University Malaysia</b></h5>
+          <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>2015 - 2016</h6>
+          <p>Diploma in Engineering NQF level 3 </p>
+          <hr>
+        </div>
+        <div class="w3-container">
+          <h5 class="w3-opacity"><b>Thanlyin Technology University</b></h5>
+          <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>2011 - 2014</h6>
+          <p>Mechanical Engineering </p>
+          <hr>
+        </div>
+        <div class="w3-container">
+          <h5 class="w3-opacity"><b>Professional Certificate</b></h5>
+          <p>Red hat Certified System Administrator (RHCSA) </p>
+          <p>Google IT Support Professional (GOOGLE) </p>
+          <p>CNSS : Certified Network Security Specialist (ICSI)</p>
+          <p>Foundation Of Cybersecurity (Coursea) </p>
+          <p>Jira Service Management Fundamentals (ALTASSIAN University) </p>
+          <p>Confluence Fundamentals (ALTASSIAN University) </p>
+          <p>Introduction to Cybersecurity (CISCO)</p>
+          <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="b0d5a61d-bd3d-4171-b365-a83be6e62081" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script><div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="650eddb2-cf8f-403e-910d-fd0450173756" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+          </br>
+
+          <img src="./Screenshot_2024-04-24_101909.png" style="width:40%" alt="Avatar"></br><img src="./ICSI.PNG" style="width:40%" alt="Avatar"></br>
+     <img src="./JIRA.png" style="width:40%" alt="Avatar"></br><img src="./Confluence.png" style="width:40%" alt="Avatar">
+     
+           
+          
+        </div>
+      </div>
+
+    <!-- End Right Column -->
+    </div>
+    
+  <!-- End Grid -->
+  </div>
+  
+  <!-- End Page Container -->
+</div>
+
+<!-- Footer. This section contains an ad for W3Schools Spaces. You can leave it to support us. -->
+<footer class="w3-container w3-teal w3-center w3-margin-top">
+  <p>Find me on social media.</p>
+    <p><a href="mailto:thihanzaw249@gmail.com" data-toggle="tooltip" data-placement="bottom" title="" onclick="javascript:toolTipReset()" data-original-title="Tap here to email me">thihanzaw@gmail.com</a> </p>
+    <p><i class="fa fa-linkedin w3-hover-opacity"></i></p><a href="https://www.linkedin.com/in/thihanzaw/" target="_blank" data-toggle="tooltip" data-placement="bottom" title="" onclick="javascript:toolTipReset()" "="" data-original-title="Visit my LinkedIn page">Thi Han Zaw</a>
+
+ <!-- End footer -->
+ </footer>
+
+</body>
+</html>
